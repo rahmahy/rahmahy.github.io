@@ -1,0 +1,33 @@
+/* header */
+#navi{
+    display: block;
+    position: fixed;
+    width: 150px;
+    height: 100vh;
+    z-index: 100;
+    transition: 300ms ease-in-out;
+    background-color: rgb(71, 45, 167);
+}
+#app{
+    transition: 300ms ease-in-out;
+    margin-left: 150px;
+
+}
+.nav-item a{
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+}
+/* header */
+
+/* footer */
+/* footer */
+
+/* user */
+/* user */
+
+/* absensi */
+/* absensi */
+
+/* asrama */
+/* asrama */
